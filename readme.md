@@ -5,7 +5,7 @@ I’m a tech lead, full-stack engineer, and ex-Amazon software developer with ex
 ### 🔧 What I Do
 
 - 🚀 Tech Lead @ [Sprout](https://www.sproutfi.xyz/)
-- 💻 Previously Senior SDE@ Amazon, I built [ECR Replication]（https://docs.aws.amazon.com/AmazonECR/latest/userguide/replication.html）
+- 💻 Previously Senior SDE@ Amazon, I built ECR Replication（https://docs.aws.amazon.com/AmazonECR/latest/userguide/replication.html）
 - ⚙️  Specialties: Docker, Go, Rust, Web3 Infra, Solana, Ethereum, Next.js, Java, AWS
 
 ### 🌱 Currently Building
