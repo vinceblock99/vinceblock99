@@ -4,7 +4,7 @@ I’m a tech lead, full-stack engineer, and ex-Amazon software developer with ex
 
 ### 🔧 What I Do
 
-- 🚀 Tech Lead @ [Sprout]
+- 🚀 Tech Lead @ [Sprout](https://www.sproutfi.xyz/)
 - 💻 Previously Senior SDE@ Amazon
 - ⚙️  Specialties: Go, Rust, Web3 Infra, Solana, Ethereum, Next.js, Java, AWS
 
