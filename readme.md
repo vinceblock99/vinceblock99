@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vincent
 
-I’m a tech lead, full-stack engineer, and ex-Amazon software developer with experience building high-scale systems, blockchain infrastructure, and developer-first products.
+I’m a tech lead, senior full-stack engineer, and ex-Amazon software developer with experience building high-scale systems, blockchain infrastructure, and developer-first products.
 
 ### 🔧 What I Do
 
