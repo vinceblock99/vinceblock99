@@ -1,10 +1,27 @@
 <div align="center">
 
-<!-- Cyberpunk Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:6b21a8,50:a855f7,75:ec4899,100:0d1117&height=220&section=header&text=VINCENT&fontColor=f0abfc&fontSize=80&fontAlignY=35&animation=fadeIn&stroke=a855f7&strokeWidth=2&desc=System%20Architect%20|%20Blockchain%20Engineer%20|%20Ex-Amazon&descSize=18&descAlignY=58&descAlign=50&descAlignX=50"/>
+<!-- Animated Coding GIF -->
+<img src="https://raw.githubusercontent.com/hasankhalid/hasankhalid/main/wave.gif" width="180px">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Initializing+system...;%3E+Loading+blockchain+modules...;%3E+Connecting+to+Web3...;%3E+Access+granted.+Welcome." alt="Typing SVG" /></a>
+<br>
+
+<!-- Hello World Title -->
+# < Hello World 👋, I'm Vincent />
+
+<!-- Console Log Style -->
+```javascript
+console.log("Welcome to my digital playground! 🎮")
+```
+
+<!-- Social Buttons -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinceruan/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinceblock99)
+[![Email](https://img.shields.io/badge/EMAIL-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wenxuan.blockchain@gmail.com)
+
+<br>
+
+<!-- Typing SVG - Role -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Senior+Full+Stack+Developer;Blockchain+Engineer;Ex-Amazon+SDE;Tech+Lead+%40+Crypto+Startup" alt="Typing SVG" /></a>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -89,17 +106,6 @@ const vincent = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinceblock99&bg_color=0d1117&color=a855f7&line=ec4899&point=f0abfc&area=true&hide_border=true&area_color=6b21a8" width="95%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `> connect.establish()`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinceruan/)
-[![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wenxuan.blockchain@gmail.com)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
