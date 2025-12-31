@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Cyberpunk Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff9f&height=200&section=header&text=VINCENT&fontColor=00ff9f&fontSize=80&fontAlignY=35&animation=twinkling&desc=System%20Architect%20|%20Blockchain%20Engineer%20|%20Ex-Amazon&descSize=18&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:6b21a8,50:a855f7,75:ec4899,100:0d1117&height=220&section=header&text=VINCENT&fontColor=f0abfc&fontSize=80&fontAlignY=35&animation=fadeIn&stroke=a855f7&strokeWidth=2&desc=System%20Architect%20|%20Blockchain%20Engineer%20|%20Ex-Amazon&descSize=18&descAlignY=58&descAlign=50&descAlignX=50"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Initializing+system...;%3E+Loading+blockchain+modules...;%3E+Connecting+to+Web3...;%3E+Access+granted.+Welcome." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Initializing+system...;%3E+Loading+blockchain+modules...;%3E+Connecting+to+Web3...;%3E+Access+granted.+Welcome." alt="Typing SVG" /></a>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -83,12 +83,12 @@ const vincent = {
 ## `> github_stats.render()`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinceblock99&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00d9ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vinceblock99&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9f&fire=00d9ff&currStreakLabel=00ff9f"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinceblock99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vinceblock99&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=f0abfc"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinceblock99&bg_color=0d1117&color=00ff9f&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinceblock99&bg_color=0d1117&color=a855f7&line=ec4899&point=f0abfc&area=true&hide_border=true&area_color=6b21a8" width="95%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -98,7 +98,7 @@ const vincent = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinceruan/)
-[![Email](https://img.shields.io/badge/Email-00ff9f?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:wenxuan.blockchain@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wenxuan.blockchain@gmail.com)
 
 </div>
 
@@ -121,9 +121,9 @@ const vincent = {
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=vinceblock99&style=for-the-badge&color=00ff9f&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=vinceblock99&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
 
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff9f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:6b21a8,50:a855f7,75:ec4899,100:0d1117&height=120&section=footer"/>
