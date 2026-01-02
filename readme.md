@@ -128,12 +128,8 @@ const vincent = {
 ## `> github_stats.render()`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinceblock99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinceblock99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vinceblock99&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=f0abfc"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinceblock99&bg_color=0d1117&color=a855f7&line=ec4899&point=f0abfc&area=true&hide_border=true&area_color=6b21a8" width="95%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
