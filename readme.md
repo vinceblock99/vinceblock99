@@ -36,8 +36,9 @@ const vincent = {
     location: "Building in the metaverse",
     background: [
         "Ex-Amazon SDE → Built ECR Replication",
-        "Crypto Startup Tech Lead",
-        "Blockchain Infrastructure Architect"
+        "Ex-Crypto Startup Tech Lead",
+        "Blockchain Infrastructure Architect",
+        "Atomic dev"
     ],
     languages: ["Go", "Rust", "TypeScript", "Java", "Solidity"],
     expertise: ["Web3", "DeFi", "High-Scale Systems", "DevTools"],
